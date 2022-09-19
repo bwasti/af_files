@@ -1,0 +1,2 @@
+libafcuda.so.3 filter=lfs diff=lfs merge=lfs -text
+libafcpu.so.3 filter=lfs diff=lfs merge=lfs -text
